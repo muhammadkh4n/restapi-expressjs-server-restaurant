@@ -1,1 +1,3 @@
-vendor
+/bin/cert.csr
+/bin/certificate.pem
+/bin/private.key
